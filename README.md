@@ -12,10 +12,10 @@
 
 ---
 
-<h3>
+<h1>
  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXM4dnRlaDZ4NnRsa2FmenJyZzN6cXEwY2IxeHF6dDY0Z2cybnp6NSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/EPuJxKTLZJl4htVc9o/giphy.gif" width="60" height="60" /> 
   About Me
-</h3>
+</h1>
 I'm an Undergraduate Computer Science Student and a full-stack developer who loves building modern applications and solving complex problems.
 
 - 🔭 I’m currently working on: **Digital Product Passport**
