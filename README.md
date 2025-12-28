@@ -63,8 +63,6 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=hunain.rizwan.ofc@gmail.com)
 </div>
 
-<br />
-
 <p align="center">
   <i>If you like my work, consider giving a star to my repositories!</i>
 </p>
