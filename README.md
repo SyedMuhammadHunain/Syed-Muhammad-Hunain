@@ -56,8 +56,7 @@
 [![Daily.dev](https://img.shields.io/badge/Daily.dev-000000?style=for-the-badge&logo=daily.dev&logoColor=white)](https://app.daily.dev/hunain_rizwan)
 [![X (Twitter)](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hunain__rizwan)
 [![Instagram](https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hunain__rizwan)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[hunain.rizwan.ofc@gmail.com])
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hunain.rizwan.ofc@gmail.com)
 </div>
 
 <br />
