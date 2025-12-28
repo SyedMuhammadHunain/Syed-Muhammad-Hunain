@@ -32,9 +32,9 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=SyedMuhammadHunain&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SyedMuhammadHunain&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedMuhammadHunain&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SyedMuhammadHunain&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
 
 </div>
 
