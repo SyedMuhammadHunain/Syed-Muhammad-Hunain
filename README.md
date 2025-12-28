@@ -40,7 +40,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=SyedMuhammadHunain&theme=tokyonight&hide_border=true" width="40%" alt="streak graph" />
 </div>
----
 
 ### Featured Projects
 
@@ -54,6 +53,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syedmuhammadhunain)
+[![Daily.dev](https://img.shields.io/badge/Daily.dev-000000?style=for-the-badge&logo=daily.dev&logoColor=white)](https://app.daily.dev/hunain_rizwan)
 [![Instagram](https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hunain__rizwan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[hunain.rizwan.ofc@gmail.com])
 
