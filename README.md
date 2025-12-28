@@ -12,8 +12,10 @@
 
 ---
 
-### 🚀 About Me
-
+<h3>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" height="30" /> 
+  About Me
+</h3>
 I'm an Undergraduate Computer Science Student and a full-stack developer who loves building modern applications and solving complex problems.
 
 - 🔭 I’m currently working on: **Digital Product Passport**
