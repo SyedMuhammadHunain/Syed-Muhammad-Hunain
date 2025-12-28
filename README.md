@@ -43,9 +43,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/SyedMuhammadHunain">
-    <img src="https://streak-stats.demolab.com?user=SyedMuhammadHunain&theme=radical&hide_border=true&bg_color=141321" width="48%" alt="streak graph" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=SyedMuhammadHunain&theme=tokyonight&hide_border=true" alt="streak graph" />
 </div>
 ---
 
