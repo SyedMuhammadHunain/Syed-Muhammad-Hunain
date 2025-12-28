@@ -68,4 +68,7 @@
 <p align="center">
   <i>If you like my work, consider giving a star to my repositories!</i>
 </p>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjc2ZHg1NmhyNHlwOGlyOW9mOWNiY3Nhanh2bjl3cWlqdW9hZDM3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AhHwBFcVGqbpkN0q3A/giphy.gif" height="30"/>
+
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjc2ZHg1NmhyNHlwOGlyOW9mOWNiY3Nhanh2bjl3cWlqdW9hZDM3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AhHwBFcVGqbpkN0q3A/giphy.gif" height="30"/>
+</div>
