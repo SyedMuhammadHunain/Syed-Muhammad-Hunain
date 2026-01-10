@@ -6,7 +6,7 @@
 
 ### About Me
 
-- 🔭 I’m currently working on: **Digital Product Passport**
+- 🔭 I’m currently working on: **Selencer Startup** and **Digital Product Passport** project
 - 🌱 I’m currently learning: **NX Monorepo**
 - 👯 I’m looking to collaborate on: **Open Source Projects / Hackathons**
 - 🥅 2026 Goals: **Become GenAI Full Stack Developer**
